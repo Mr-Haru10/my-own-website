@@ -1,9 +1,10 @@
 import React from 'react';
+import TopImage from './Components/TopImage';
 
 function App(){
     return (
         <div className='appDiv'>
-            <h1>Hi I'm Harsha r Mundaragi</h1>
+            <TopImage />
         </div>
     );
 }

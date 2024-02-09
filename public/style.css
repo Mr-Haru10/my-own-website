@@ -10,6 +10,12 @@
     background-color: antiquewhite;
 }
 
-.appDiv h1{
-    color: tomato;
+.topImageDiv{
+    width: 100%;
+    height: 80%;
+    background-image: url("./Images/wallpaper01.JPG");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    
 }
